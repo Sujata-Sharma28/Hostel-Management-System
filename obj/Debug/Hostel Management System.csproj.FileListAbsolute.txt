@@ -1,0 +1,28 @@
+D:\Align Books Project\Hostel Management System\bin\Debug\Hostel Management System.exe.config
+D:\Align Books Project\Hostel Management System\bin\Debug\Hostel Management System.exe
+D:\Align Books Project\Hostel Management System\bin\Debug\Hostel Management System.pdb
+D:\Align Books Project\Hostel Management System\bin\Debug\Guna.UI2.dll
+D:\Align Books Project\Hostel Management System\obj\Debug\Hostel_Management_System.Properties.Resources.resources
+D:\Align Books Project\Hostel Management System\obj\Debug\Hostel Management System.csproj.GenerateResource.cache
+D:\Align Books Project\Hostel Management System\obj\Debug\Hostel Management System.csproj.CoreCompileInputs.cache
+D:\Align Books Project\Hostel Management System\obj\Debug\Hostel Management System.csproj.CopyComplete
+D:\Align Books Project\Hostel Management System\obj\Debug\Hostel Management System.exe
+D:\Align Books Project\Hostel Management System\obj\Debug\Hostel Management System.pdb
+D:\Align Books Project\Hostel Management System\obj\Debug\Hostel_Management_System.Login.resources
+D:\Align Books Project\Hostel Management System\obj\Debug\Hostel_Management_System.Dashboard.resources
+D:\Align Books Project\Hostel Management System\obj\Debug\Hostel_Management_System.Manage_RoomForm.resources
+D:\Align Books Project\Hostel Management System\bin\Debug\MySql.Data.dll
+D:\Align Books Project\Hostel Management System\obj\Debug\Hostel_Management_System.NewStudent_Form.resources
+D:\Align Books Project\Hostel Management System\obj\Debug\Hostel_Management_System.UpdateDeleteStudents_Form.resources
+D:\Align Books Project\Hostel Management System\obj\Debug\Hostel_Management_System.Student_FeesForm.resources
+D:\Align Books Project\Hostel Management System\obj\Debug\Hostel_Management_System.Students_LivingForm.resources
+D:\Align Books Project\Hostel Management System\obj\Debug\Hostel_Management_System.Leaved_StudentsForm.resources
+D:\Align Books Project\Hostel Management System\obj\Debug\Hostel_Management_System.New_EmployeeForm.resources
+D:\Align Books Project\Hostel Management System\obj\Debug\Hostel_Management_System.UpdateDeleteEmployeeForm.resources
+D:\Align Books Project\Hostel Management System\obj\Debug\Hostel_Management_System.Employee_PaymentForm.resources
+D:\Align Books Project\Hostel Management System\obj\Debug\Hostel_Management_System.Employee_WorkingForm.resources
+D:\Align Books Project\Hostel Management System\obj\Debug\Hostel_Management_System.Leaved_EmployeeForm.resources
+D:\Align Books Project\Hostel Management System\obj\Debug\Hostel_Management_System.SignUpForm.resources
+D:\Align Books Project\Hostel Management System\obj\Debug\Hostel_Management_System.ChangeYourPassword.resources
+D:\Align Books Project\Hostel Management System\obj\Debug\Hostel_Management_System.VerifyForm.resources
+D:\Align Books Project\Hostel Management System\obj\Debug\Hostel Management System.csproj.AssemblyReference.cache
